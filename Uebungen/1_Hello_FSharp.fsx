@@ -1,6 +1,6 @@
 //************************************************************************************
 //*                                                                                  *
-//*                           Übung 1 - Hello F#                                     *
+//*                           uebung 1 - Hello F#                                     *
 //*                                                                                  *
 //************************************************************************************
 
@@ -8,17 +8,17 @@
 
 10
 
-//Markiert die '10' und drückt Alt+Enter, dann sollte sich die interaktive Konsole öffnen und euer Output sollte 'int = 10' sein.
-//(Bei einzeiligem Code könnt ihr auch einfach die Zeile auswählen und Alt+Enter drücken ohne das alles markiert ist.)
-//Auf diese Weise könnte ihr Code den ihr geschrieben habt, direkt testen und euch den Output ansehen.
+//Markiert die '10' und drueckt Alt+Enter, dann sollte sich die interaktive Konsole oeffnen und euer Output sollte 'int = 10' sein.
+//(Bei einzeiligem Code koennt ihr auch einfach die Zeile auswaehlen und Alt+Enter druecken ohne das alles markiert ist.)
+//Auf diese Weise koennte ihr Code den ihr geschrieben habt, direkt testen und euch den Output ansehen.
 
 //Versucht das mal mit der folgenden Zeile und ihr werdet sehen, dass das Ergebnis direkt ausgerechnet wird und 'int = 30' ist.
 
 10 + 20
 
 
-// Alles was ihr hinter "//" schreibt ist ein Kommentar und wird nicht als Code ausgeführt.
-// Ihr könnt auch Teile einer Zeile auskommentieren mit der Tastenkombination (Strg + K -> Strg + C)
+// Alles was ihr hinter "//" schreibt ist ein Kommentar und wird nicht als Code ausgefuehrt.
+// Ihr koennt auch Teile einer Zeile auskommentieren mit der Tastenkombination (Strg + K -> Strg + C)
 
 10 (*+ 40 *) + 30
 
@@ -26,7 +26,7 @@
 //////////////////      TASKS for Excercise 1       //////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// Solltet ihr bei einer Übung nicht auf die Lösung kommen, lasst auf jeden Fall euren Lösungsansatz stehen!
+// Solltet ihr bei einer uebung nicht auf die Loesung kommen, lasst auf jeden Fall euren Loesungsansatz stehen!
 
 //+++++++++++++++++++++++
 // Das 'let'-Binding
@@ -35,7 +35,7 @@
 //      Task 1
 
 // Task 1.1:  ---------------------------------------------------------------------------------------------------
-// Binde den Wert 10 an den Namen 'x'. Binde den Wert 20 an den Namen 'käsebrot'.
+// Binde den Wert 10 an den Namen 'x'. Binde den Wert 20 an den Namen 'kaesebrot'.
 
 
 
@@ -118,8 +118,8 @@
 
 
 // Task 3.7:  ---------------------------------------------------------------------------------------------------
-// Deklariere eine Funktion 'calculateCylinderVolume' die aus Radius und Länge das Volumen eines Zylinders 
-// zurückgibt UND zusätzlich "Das Volumen des Zylinders ist: XX" in die Konsole printed. Wobei XX natürlich 
+// Deklariere eine Funktion 'calculateCylinderVolume' die aus Radius und Laenge das Volumen eines Zylinders 
+// zurueckgibt UND zusaetzlich "Das Volumen des Zylinders ist: XX" in die Konsole printed. Wobei XX natuerlich 
 // das korrekte Volumen des Zylinders ist. (Der Output einer printfn Funktion ist Unit.)
 // Warum kann es Sinn machen, Ergebnisse zu printen?
 
@@ -139,7 +139,7 @@
 // Task 3.10:  ---------------------------------------------------------------------------------------------------
 // Deklariere eine Funktion die als Input zwei Parameter vom Typ Floats, einen Vergleichsoperator z.B. 
 // (<, >, = ), und einen Parameter vom Typ Boolean akzeptiert. Das Ergebnis aus der Anwendung des angegebenen 
-// Operators auf die numerischen Parameter soll mit dem Parameter vom Typ Boolean auf Gleichheit überprüft werden.
+// Operators auf die numerischen Parameter soll mit dem Parameter vom Typ Boolean auf Gleichheit ueberprueft werden.
 
 
 
