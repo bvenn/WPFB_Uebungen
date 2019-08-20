@@ -12,6 +12,8 @@ Ablauf:
 Setup 
 -----
 
+- Die notwendigen Frameworks und Programme installieren wir gemeinsam, mit euch vor dem Start der 1. Übung. 
+
 - Nach dem Herunterladen, öffnet den ordner .env
 
 - Gebt `cmd` in die adresszeile des FileExplorers ein:
