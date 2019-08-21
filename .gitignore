@@ -332,3 +332,4 @@ ASALocalRun/
 .env/.paket
 .env/packages
 .env/paket-files
+/.ionide
